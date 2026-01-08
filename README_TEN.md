@@ -1,4 +1,4 @@
-🇫🇷 [French version](README.md)
+🇫🇷 [French version][README.md](README.md)
 
 # Online CV – Junior Web Developer
 
