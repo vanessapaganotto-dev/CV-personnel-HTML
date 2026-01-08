@@ -1,0 +1,169 @@
+     pre {
+                color : hotpink;
+                font-weight: 400;
+                font-size: 1.4em;
+                display: inline-block;
+                margin-right: 700px;
+                margin-bottom: 20px;
+                
+                }
+            pre:active { 
+                    background-color: lavenderblush;
+                    color: deeppink;
+                    border-radius: 15px;
+                    padding: 30px;
+                    color: green;
+                    
+            }
+            h1 {
+                text-align: center;
+                text-transform: uppercase;
+                color:deeppink;
+                background-color: lightpink;
+                font-size: 35px;
+                font-family: Arial, Verdana, sans-serif;
+                padding: 15px;
+                margin-top :100px ;
+                text-shadow: 5px 5px 0.1em white, -5px -5px 0.1em palegreen;
+                border: 7px double deeppink;
+                border-radius: 15px;
+            }
+            h1:hover {
+                border : 7px double green;
+                background-color: palegreen;
+                color: green;
+            }
+            h2 {
+                text-align: center;
+                text-transform: uppercase;
+                color:green;
+                margin-top: 150px ; 
+                margin-bottom: 70px;
+                font-size: 25px;
+                font-family: Papyrus, Harrington, fantasy;
+                background-color: chartreuse;
+                padding: 15px;
+                border: 2px solid green;
+                border-radius: 15px;
+                }
+            h2:active { 
+                background-color: pink;
+                border-color: deeppink;
+                color: deeppink;
+            }
+            h3 {
+                text-decoration: underline;
+                font-size: 35px;
+                font-style: oblique;
+            }
+            h3:active {font-family: cursive;
+                        text-decoration-line: overline;
+                        color : green;
+            }
+            
+            address {display: inline-block;}
+            
+            .competences { columns: 2 200px;
+                            column-gap: 100px;
+                            text-align: center;
+                            column-rule: 5px dashed lightpink;
+                            color: hotpink;
+                            font-weight: 700;                                                        
+            }
+            .competences:hover {
+                            color : springgreen;
+                            background-color : lavenderblush;
+                            border-radius: 15px;
+                            column-rule: 10px solid deeppink;
+            }
+            
+            
+            img { 
+                height: 150px;
+                width : 150px;
+                border: 10px solid springgreen;
+                }
+            img:active {
+                height: 300px;
+                width : 300px;
+                border: 10px double deeppink;
+                margin: 30px;
+            }
+            li { 
+                list-style-type: none;
+                font-size: 22px;
+            }
+            li:hover {
+                list-style-type: square;
+                font-size: 1.8em;
+            }
+            .formation {
+                        color:hotpink;
+                        font-family: monospace;
+                        font-size : 20px;
+                        text-align: justify;
+                        margin-left: 50px;
+                        margin-top: 50px;
+            }
+            .formation:active {
+                        color : deeppink;
+                            background-color : lavenderblush;
+                            font-size: 25px;
+                            font-weight: bold;
+                            border-radius: 15px;
+                            border : green 4px dashed;
+                            padding: 20px;
+                            margin-right: 50px;
+                            
+            }
+            .experiences { color: hotpink;
+                            font-family: Arial, Verdana, sans-serif;
+                            font-weight: 650;
+                            font-size: : 18px;
+                            text-align: justify;
+                            margin-top : 100px;
+            }
+            .experiences:active {
+                            color : springgreen;
+                            background-color : lavenderblush;
+                            border-radius: 15px;
+                            border : 5px dotted deeppink;
+                            padding: 20px;
+            }
+            .interet { 
+                color : hotpink;
+                        font-size: 20px;
+                        font-family: cursive;
+                        text-align: center;
+                        font-weight: bold ;
+            }
+            .interet:hover {
+                            color : deeppink;
+                            font-size: 25px;
+                            border-radius : 15px;
+                            padding: 20px;
+                            background-color: lavenderblush;
+                            border : 2px solid deeppink;
+            }
+
+            .balise { 
+                    margin-left: 700px;
+                    margin-bottom: 100px;}
+
+            .balise:hover { margin-left: 600px;}
+
+            .menu { background-color: lavenderblush;
+                    border : 4px solid deeppink;
+                    text-align: center;
+                    margin-left: 300px;
+                    width: 900px;
+                    height: 50px;
+                    
+                   
+        }
+            .nav { 
+                    border-left: 3px solid deeppink;
+                     display: inline-block;
+                    font-size: 18px;
+                    font-family: monospace;
+}
